@@ -3,9 +3,9 @@ export const projects = {
     quote: "Ahh, Learning alone is boring, implementation is the real fun",
     projectList: [
         {
-            name: "TextBay",
-            description: "Modify your text with the Textbay tool.",
-            link: "http://textbay.herokuapp.com/"
+            name: "SocialBay",
+            description: "SocialBay is your Social Media Account sharing platform.",
+            link: "http://socialbay.herokuapp.com/"
         }, {
             name: "FightWithCovid",
             description: "Fight Covid is your interactive query destination.Stay alert and up to date with the guidelines preset by WHO and other health organisations to combat this virus collectively.",
@@ -14,6 +14,10 @@ export const projects = {
             name: "PskClicks",
             description: "More into my Photography Work. V2.0 is comming soon, where users can Post and comment too.",
             link: "https://pskclicks.github.io/web/"
+        },{
+            name: "TextBay",
+            description: "Modify your text with the Textbay tool.",
+            link: "http://textbay.herokuapp.com/"
         }, {
             name: "Youtube Video Downloader",
             description: "Download Youtube Videos directly in your system without worring about viruses.",
