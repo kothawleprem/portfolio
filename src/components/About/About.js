@@ -13,6 +13,4 @@ export const About = ({ bio }) => {
            
         
     )
-    
-    
 }
